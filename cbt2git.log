@@ -1,4 +1,4 @@
-2025-04-08 22:54:37.765013 - Received CBT.V508.FILE086.PDS from FILE086.XMI 
-2025-04-08 22:54:37.766438 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE086.PDS, moved to PDS/$$$#DATE
-2025-04-08 22:54:37.767100 - Found @FILE086.txt (text/plain) in CBT.V508.FILE086.PDS, moved to PDS/@FILE086
-2025-04-08 22:54:37.767753 - Found SUPERZAP.bin (application/octet-stream) in CBT.V508.FILE086.PDS, moved to PDS/SUPERZAP
+2025-04-09 15:45:02.089874 - Received CBT.V508.FILE086.PDS from FILE086.XMI 
+2025-04-09 15:45:02.106777 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE086.PDS, moved to PDS/$$$#DATE
+2025-04-09 15:45:02.107374 - Found @FILE086.txt (text/plain) in CBT.V508.FILE086.PDS, moved to PDS/@FILE086
+2025-04-09 15:45:02.108096 - Found SUPERZAP.bin (application/octet-stream) in CBT.V508.FILE086.PDS, moved to PDS/SUPERZAP
